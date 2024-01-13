@@ -1,7 +1,7 @@
 {
     "name": "NodeRed_Heishamon_control",
     "description": "A Node-RED Project",
-    "version": "0.0.1",
+    "version": "24.02",
     "dependencies": {},
     "node-red": {
         "settings": {
